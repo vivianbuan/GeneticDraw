@@ -35,4 +35,4 @@ Our model can be extended to different image classifier. We experimented with VG
 
 ## Authors
 * [Weiran(Vivian) Liu](https://github.com/vivianbuan)
-* [Huangjie Sheng](https://github.com/david190810)
+* [Huanjie Sheng](https://github.com/david190810)

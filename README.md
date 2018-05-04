@@ -1,6 +1,6 @@
 # Evolutionary Painting: Use genetic algorithm and convolutional neural network to create artworks。
 
-The GeneticDraw is a model designed for automatically drawing images given a label using genetic algorithm and CNN classifier. This is the result of gruaduation student final project of [Berkeley EECS 189 course](http://www.eecs189.org/).
+The GeneticDraw is a model designed for automatically drawing images given a label using genetic algorithm and CNN classifier. This is the result of gruaduation student final project of [Berkeley EECS 189/289A course](http://www.eecs189.org/).
 
 If you're interested, checkout our [final report](docs/289_Final_Report.pdf) for details of experiment results and discussion.
 
